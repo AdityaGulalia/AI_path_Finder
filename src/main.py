@@ -8,9 +8,10 @@ from utilis.logger import setup_logger
 def main():
     try:
         setup_logger("simulation_log")
-        sim = simulation.Simulation()
-        sim.run()
-    
+        sim = simulation.Simulation(1, 1)
+        sim.run(1, 1)
+        sim.new_position(1, 0)
+
     except IndexError as error:
         return error
 
