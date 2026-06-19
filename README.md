@@ -1,6 +1,6 @@
 # AI Path Finder
 
-## Why I Built This
+## Why I Built This 
 
 I wanted to learn the foundations of AI and Reinforcement Learning by building something instead of following tutorials. The goal was not to create a complete racing simulator, but to understand how environments, agents, states, and actions work in practice.
 
