@@ -88,14 +88,6 @@ After building the simulation, these concepts became much clearer:
 
 ## What I Learned
 
-### Python
-
-* Object-Oriented Programming
-* Project structure
-* Logging
-* Unit testing with pytest
-* Fixtures and test organization
-
 ### Simulation Design
 
 * State transitions
